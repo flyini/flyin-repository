@@ -24,7 +24,7 @@ This is a multi-page personal portfolio website developed using HTML, CSS, and J
 - Dynamic dark/light mode toggle
 
  ⚙️ How to Use
-1. Open `index.html` in a browser
+1. Open [`index.html`](https://flyini.github.io/flyin-repository/) in a browser
 2. Navigate through the links to explore each section
 3. Try filling the contact form and survey to test JavaScript features
 
